@@ -28,13 +28,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZetWindsor&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
 ## 📫 How to reach me  
 📧 **Email:** lemigliot@gmail.com 
 📌 **Location:** Palermo, Italy  
@@ -76,13 +69,6 @@
 ## 🎮 Curiosità  
 🔹 Se la programmazione fosse una **mossa Pokémon**, aumenterei al massimo gli **IVs** e la insegnerei a tutta la mia squadra!  
 🔹 Il mio sogno è catturarli tutti... *e scrivere il miglior codice front-end di sempre!*  
-
----
-
-## 📈 Statistiche GitHub  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZetWindsor&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 ---
 
