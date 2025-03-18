@@ -7,7 +7,7 @@
 🚀 I'm a passionate **Front-End Developer** with a strong background in **React, Redux, JavaScript, TypeScript, and SCSS**.  
 🎓 I studied at **Develhope** and completed a **240-hour React course** at **TLG Catania**.  
 💡 I love building **interactive UIs**, exploring new technologies, and optimizing web performance.  
-🔥 Also, I might be a **Pokémon Master** in my free time! 😏🎮  
+🔥 I might also be a **Pokémon Master** in my free time! 😏🎮  
 
 ---
 
@@ -23,7 +23,7 @@
 ---
 
 ## 🎮 Fun Fact  
-🔹 If coding was a **Pokémon move**, I'd max out its **IVs** and teach it to all my team!  
+🔹 If coding was a **Pokémon move**, I'd max out its **IVs** and teach it to my whole team!  
 🔹 My dream is to catch 'em all... *and write the best front-end code ever!*  
 
 ---
