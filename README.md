@@ -48,7 +48,7 @@
 
 ---
 
-## 🇮🇹 Ciao! Sono ZetWindsor 👋  
+##Ciao! Sono ZetWindsor 👋  
 
 <h3 align="center">👨‍💻 Sviluppatore Front-End | Appassionato di React | Allenatore di Pokémon 🎮</h3>
 
