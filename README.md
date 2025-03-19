@@ -20,7 +20,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
 
-
 ---
 
 ## 🎮 Fun Fact  
@@ -30,19 +29,22 @@
 ---
 
 ## 📫 How to reach me  
-📧 **Email:** lemigliot@gmail.com 
+📧 **Email:** lemigliot@gmail.com  
 📌 **Location:** Palermo, Italy  
 
 ---
 
 ## 🔥 Keep Coding, Keep Catching Pokémon!  
 <p align="center">
-  <img src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="250px" />
+  <img src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="200px" />
+  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="200px" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" />
 </p>
 
 ---
 
-##Ciao! Sono ZetWindsor 👋  
+## Ciao! Sono ZetWindsor 👋  
 
 <h3 align="center">👨‍💻 Sviluppatore Front-End | Appassionato di React | Allenatore di Pokémon 🎮</h3>
 
@@ -65,7 +67,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
 
-
 ---
 
 ## 🎮 Curiosità  
@@ -75,12 +76,15 @@
 ---
 
 ## 📫 Contattami  
-📧 **Email:** lemigliot@gmail.com 
+📧 **Email:** lemigliot@gmail.com  
 📌 **Dove mi trovi:** Palermo, Italia  
 
 ---
 
 ## 🔥 Continua a programmare e cattura tutti i Pokémon!  
 <p align="center">
-  <img src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="250px" />
+  <img src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="200px" />
+  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="200px" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" />
 </p>
